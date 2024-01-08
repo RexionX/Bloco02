@@ -1,0 +1,1 @@
+UPDATE tb_dados SET salario = 2200.00 WHERE id = 4;

@@ -1,0 +1,1 @@
+UPDATE tb_sistema SET nota = 7.7 WHERE id = 4;

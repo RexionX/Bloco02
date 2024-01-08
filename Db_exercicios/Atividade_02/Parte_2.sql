@@ -1,0 +1,9 @@
+CREATE TABLE tb_info(
+id BIGINT AUTO_INCREMENT,
+produto VARCHAR(255) NOT NULL,
+tipo VARCHAR(255),
+quantidade INT,
+dataVenda DATE,
+valor DECIMAL(6,2) NOT NULL,
+PRIMARY KEY (id)
+);

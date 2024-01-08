@@ -1,0 +1,1 @@
+SELECT * FROM tb_sistema WHERE nota > 7.0;
